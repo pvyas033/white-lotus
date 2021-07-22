@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/white-lotus/static/css/main.764de0a8.chunk.css",
+    "main.js": "/white-lotus/static/js/main.926841b6.chunk.js",
+    "main.js.map": "/white-lotus/static/js/main.926841b6.chunk.js.map",
+    "runtime-main.js": "/white-lotus/static/js/runtime-main.25bf6349.js",
+    "runtime-main.js.map": "/white-lotus/static/js/runtime-main.25bf6349.js.map",
+    "static/js/2.01bd08fa.chunk.js": "/white-lotus/static/js/2.01bd08fa.chunk.js",
+    "static/js/2.01bd08fa.chunk.js.map": "/white-lotus/static/js/2.01bd08fa.chunk.js.map",
+    "static/js/3.5f7d7a17.chunk.js": "/white-lotus/static/js/3.5f7d7a17.chunk.js",
+    "static/js/3.5f7d7a17.chunk.js.map": "/white-lotus/static/js/3.5f7d7a17.chunk.js.map",
+    "index.html": "/white-lotus/index.html",
+    "static/css/main.764de0a8.chunk.css.map": "/white-lotus/static/css/main.764de0a8.chunk.css.map",
+    "static/js/2.01bd08fa.chunk.js.LICENSE.txt": "/white-lotus/static/js/2.01bd08fa.chunk.js.LICENSE.txt",
+    "static/media/about.styles.css": "/white-lotus/static/media/notebook.cec9b625.PNG",
+    "static/media/education.styles.css": "/white-lotus/static/media/school.6112ad47.jfif",
+    "static/media/logo.9c834c4f.png": "/white-lotus/static/media/logo.9c834c4f.png",
+    "static/media/person.704bd3af.jpg": "/white-lotus/static/media/person.704bd3af.jpg",
+    "static/media/points2.a61ec611.png": "/white-lotus/static/media/points2.a61ec611.png",
+    "static/media/projects.styles.css": "/white-lotus/static/media/tenor_1.fe7facf8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25bf6349.js",
+    "static/js/2.01bd08fa.chunk.js",
+    "static/css/main.764de0a8.chunk.css",
+    "static/js/main.926841b6.chunk.js"
+  ]
+}
