@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/white-lotus/static/css/main.d2398e57.chunk.css",
-    "main.js": "/white-lotus/static/js/main.bffe03c9.chunk.js",
-    "main.js.map": "/white-lotus/static/js/main.bffe03c9.chunk.js.map",
-    "runtime-main.js": "/white-lotus/static/js/runtime-main.6d96f370.js",
-    "runtime-main.js.map": "/white-lotus/static/js/runtime-main.6d96f370.js.map",
+    "main.css": "/white-lotus/static/css/main.4e2d9df1.chunk.css",
+    "main.js": "/white-lotus/static/js/main.bec7905e.chunk.js",
+    "main.js.map": "/white-lotus/static/js/main.bec7905e.chunk.js.map",
+    "runtime-main.js": "/white-lotus/static/js/runtime-main.25bf6349.js",
+    "runtime-main.js.map": "/white-lotus/static/js/runtime-main.25bf6349.js.map",
     "static/js/2.4eb068bd.chunk.js": "/white-lotus/static/js/2.4eb068bd.chunk.js",
     "static/js/2.4eb068bd.chunk.js.map": "/white-lotus/static/js/2.4eb068bd.chunk.js.map",
-    "static/js/3.ddee80de.chunk.js": "/white-lotus/static/js/3.ddee80de.chunk.js",
-    "static/js/3.ddee80de.chunk.js.map": "/white-lotus/static/js/3.ddee80de.chunk.js.map",
+    "static/js/3.5f7d7a17.chunk.js": "/white-lotus/static/js/3.5f7d7a17.chunk.js",
+    "static/js/3.5f7d7a17.chunk.js.map": "/white-lotus/static/js/3.5f7d7a17.chunk.js.map",
     "index.html": "/white-lotus/index.html",
-    "static/css/main.d2398e57.chunk.css.map": "/white-lotus/static/css/main.d2398e57.chunk.css.map",
+    "static/css/main.4e2d9df1.chunk.css.map": "/white-lotus/static/css/main.4e2d9df1.chunk.css.map",
     "static/js/2.4eb068bd.chunk.js.LICENSE.txt": "/white-lotus/static/js/2.4eb068bd.chunk.js.LICENSE.txt",
     "static/media/about.styles.css": "/white-lotus/static/media/about-img.6d921d4e.jpg",
-    "static/media/education.styles.css": "/white-lotus/static/media/school.6112ad47.jfif",
     "static/media/logo.9c834c4f.png": "/white-lotus/static/media/logo.9c834c4f.png",
     "static/media/notebook.styles.css": "/white-lotus/static/media/notebook.7d2a13e7.jpg",
     "static/media/person.704bd3af.jpg": "/white-lotus/static/media/person.704bd3af.jpg",
@@ -21,9 +20,9 @@
     "static/media/projects.styles.css": "/white-lotus/static/media/tenor_1.fe7facf8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d96f370.js",
+    "static/js/runtime-main.25bf6349.js",
     "static/js/2.4eb068bd.chunk.js",
-    "static/css/main.d2398e57.chunk.css",
-    "static/js/main.bffe03c9.chunk.js"
+    "static/css/main.4e2d9df1.chunk.css",
+    "static/js/main.bec7905e.chunk.js"
   ]
 }
