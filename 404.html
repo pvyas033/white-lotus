@@ -27,70 +27,62 @@
         }
 
         body {
-            margin: 0;
-            padding: 0;
+            background-color: var(--background-color);
+            color: var(--foreground-color);
+            font-family: var(--ff-teko);
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: var(--background-color);
-            color: var(--foreground-color);
-            font-family: var(--ff-teko);
+            margin: 0;
         }
 
-        .container {
+        .error-code {
+            font-size: 6rem;
+            line-height: 1;
+            color: var(--light-one);
+            z-index: 3;
             text-align: center;
         }
 
-        h1 {
-            font-size: 6rem;
-            margin: 0;
-            color: var(--foreground-color);
-        }
-
-        p {
-            font-size: 1.5rem;
-            margin: 0.5rem 0 1rem 0;
+        .error-title {
+            margin-top: 1rem;
+            font-size: 2rem;
             color: var(--light-one);
+            z-index: 3;
+            text-align: center;
         }
 
-        a {
+        .redirect-link {
+            margin-top: 2rem;
+            font-size: 2rem;
+            color: var(--light-one);
+            z-index: 3;
+            text-align: center;
+        }
+
+        .redirect-link a {
+            color: green;
             text-decoration: none;
-            color: var(--background-color);
-            background-color: var(--foreground-color);
-            padding: 0.5rem 1rem;
-            border-radius: 0.5rem;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;
         }
 
-        a:hover {
-            background-color: var(--hover-color);
-            color: var(--foreground-color);
+        .redirect-link a:hover {
+            color: pink;
         }
 
-        .animation {
-            font-size: 8rem;
-            margin-bottom: 1rem;
-            animation: float 1s ease-in-out infinite alternate;
-        }
-
-        @keyframes float {
-            0%, 100% {
-                transform: translateY(0);
-            }
-            50% {
-                transform: translateY(-10px);
-            }
+        .error-box {
+            background-color: var(--main-black);
+            padding: 2rem;
+            text-align: center;
+            border-radius: 10px;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <div class="animation">  😢</div>
-        <h1>404</h1>
-        <p>Oops! The page you are looking for does not exist.</p>
-        <a href="/">Go to Home</a>
+    <div class="error-box">
+        <h1 class="error-code">404</h1>
+        <h1 class="error-title">Oops! The page you are looking for does not exist.</h1>
+        <h1 class="redirect-link">Click <a href="/">here</a> to redirect to the home page.</h1>
     </div>
 </body>
 </html>
